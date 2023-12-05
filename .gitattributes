@@ -1,3 +1,4 @@
+radio/* filter=lfs diff=lfs merge=lfs -text
 radio/abl.img !text !filter !merge !diff
 radio/aop.img !text !filter !merge !diff
 radio/cmnlib.img !text !filter !merge !diff
